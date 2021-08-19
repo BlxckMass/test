@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="windows-1251"?>
+<organizations>
+    <organization id="1">
+        <name lang="en">Organization 1</name>
+        <shortName>Org1</shortName>
+        <leader>
+            <lastName lang="en">Кулаков</lastName>
+            <firstName>Дмитрий</firstName>
+            <patronymic>Платонович</patronymic>
+            <position>Инженер</position>
+            <birthDay>06.07.1999</birthDay>
+            <phone>+79999999999</phone>
+        </leader>
+        <phoneNumbers></phoneNumbers>
+    </organization>
+</organizations>

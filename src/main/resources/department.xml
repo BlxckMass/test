@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="windows-1251"?>
+<departments>
+    <department id="1">
+        <name lang="en">Department 1</name>
+        <shortName>Dep1</shortName>
+        <leader></leader>
+        <phoneNumbers></phoneNumbers>
+    </department>
+</departments>
